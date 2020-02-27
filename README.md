@@ -1,0 +1,2 @@
+# lss
+ Sequence finder tool.
